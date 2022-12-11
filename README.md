@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="35%" align="right" alt="Github" src="https://github.com/TurboRoomba/TurboRoomba/assets/blob/main/green%20globe.gif" />
+<img width="35%" align="right" alt="Github" src="assets/green globe.gif" />
 
 I'm a SysAdmin who is passionate about Windows & Linux sever administration. As well as, cloud and automation.
 
