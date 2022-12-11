@@ -2,7 +2,7 @@
 
 <img width="25%" align="right" alt="Globe" src="assets/green globe.gif" />
 
-I'm a SysAdmin who's passionate about Windows, Linux, networking, cloud, and automation.
+I'm a SysAdmin who's passionate about Linux, Windows, networking, cloud, and automation.
 
 - 🪟 I’m currently a sever & cloud student at Microsoft's Systems and Software Academy.
 - 💻 I’m currently learning Microsoft Azure, PowerShell, and Linux.
@@ -19,9 +19,19 @@ I'm a SysAdmin who's passionate about Windows, Linux, networking, cloud, and aut
 <img align="left" alt="Azure" width="50px" style="padding-right:10px;" src="assets/msazure.png" />
 <img align="left" alt="VMware" width="50px" style="padding-right:10px;" src="assets/vmware.png" />
 
-#
+
 
 <br />
 
 #
- #### Feel free to reach out via: [Linkedin](https://www.linkedin.com/in/trentdue) or [e-mail](mailto:trentdue@outlook.com)
+### 📜 Certifications
+
+<img align="left" alt="VMware" width="70px" style="padding-right:10px;" src="assets/comptia-security-ce-certification.png" />
+<img align="left" alt="VMware" width="73px" style="padding-right:10px;" src="assets/lpi.jpg" />
+<br />
+<br />
+<br />
+
+#
+ 
+### Feel free to reach out via: [Linkedin](https://www.linkedin.com/in/trentdue) or [e-mail](mailto:trentdue@outlook.com)
