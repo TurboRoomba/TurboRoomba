@@ -1,10 +1,11 @@
-### 👾*Trent Due*
+# 👾*Trent Due*
 
 <img width="25%" align="right" alt="Globe" src="assets/green globe.gif" />
 
-I'm a SysAdmin who's passionate about Linux, Windows, networking, cloud, and automation.
+I'm a SysAdmin who's interested in everything Linux, Windows, networking, cloud, and automation.
 
-- 🪟 I’m currently a sever & cloud student at Microsoft's Systems and Software Academy.
+
+- 📚 I’m a sever & cloud student at Microsoft's Systems and Software Academy.
 - 💻 I’m currently learning Microsoft Azure, PowerShell, and Linux.
  
 #
@@ -34,4 +35,4 @@ I'm a SysAdmin who's passionate about Linux, Windows, networking, cloud, and aut
 
 #
  
-### Feel free to reach out via: [Linkedin](https://www.linkedin.com/in/trentdue) or [e-mail](mailto:trentdue@outlook.com)
+Feel free to reach out via: [Linkedin](https://www.linkedin.com/in/trentdue) or [e-mail](mailto:trentdue@outlook.com)
