@@ -2,13 +2,6 @@
 
 <img width="25%" align="right" alt="Globe" src="assets/green globe.gif" />
 
-I'm a SysAdmin who's interested in everything Linux, Windows, networking, cloud, and automation.
-
-
-- 📚 I’m a sever & cloud student at Microsoft's Systems and Software Academy.
-- 💻 I’m currently learning Microsoft Azure, PowerShell, and Linux.
- 
-#
  
 ### 🧰 Languages and Tools
 
